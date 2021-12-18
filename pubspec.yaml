@@ -1,0 +1,90 @@
+name: belleza
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.1.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.0
+  flutter_screenutil: ^4.0.2
+  google_fonts: ^1.1.2
+  connectivity: ^2.0.2
+  flare_flutter: ^2.0.6
+  font_awesome_flutter: ^8.11.0
+  modal_bottom_sheet: ^1.0.0
+  table_calendar: ^2.3.3
+  calendar_strip: ^1.0.7
+  rating_bar: ^0.2.0
+  flutter_image_compress: ^0.7.0
+  multi_image_picker: ^4.7.13
+  flutter_spinkit: ^4.1.2
+  get: ^3.24.0
+  dio: ^3.0.10
+  shared_preferences: ^0.5.12
+  fluttertoast: ^7.1.6
+  url_launcher: ^5.7.10
+  image_picker: ^0.6.7
+  flutter_svg: ^0.18.0
+  cached_network_image: ^2.5.0
+  carousel_slider: ^2.2.1
+  progress_dialog: ^1.2.0
+  google_maps_flutter: ^1.1.1
+  geolocator: ^6.1.14
+  geocoder: ^0.2.1
+  geocoding: ^1.0.5
+  firebase_core: ^0.5.3
+  cloud_firestore: ^0.14.4
+  firebase_messaging: ^7.0.3
+  pin_code_fields: ^5.0.1
+  localize_and_translate: ^3.0.2
+  logger: ^0.9.3
+  string_validator: ^0.1.4
+  country_code_picker: ^1.4.0
+  auto_size_text: ^2.1.0
+  date_time_picker: ^1.1.1
+  flutter_local_notifications: ^4.0.1
+  provider: ^4.3.2+2
+  # location: ^2.3.5
+    
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/svg/
+    - assets/langs/
+    - assets/gif/
+    - assets/
+    - assets/animations/
+
+  fonts:
+    - family: Cairo-Regular
+      fonts:
+        - asset: assets/fonts/Cairo-Regular.ttf

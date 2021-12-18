@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "152106040228",
+    "project_id": "belleza-b3580",
+    "storage_bucket": "belleza-b3580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152106040228:android:4730ee164224e671d8df31",
+        "android_client_info": {
+          "package_name": "com.hashemb.belleza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152106040228-b958jn4532o2thg86nf394qu7ighuv4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrhvIzY4Nru01zZSwYccdQu5HgdNxFi4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152106040228-b958jn4532o2thg86nf394qu7ighuv4l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152106040228-bac6moj2miekis88kr6p4m4ge1cs4bdi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mansour.belleza"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
